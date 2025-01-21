@@ -3,3 +3,5 @@
 # <h6> This is a h6 header
 
 Meaningful commit message
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
